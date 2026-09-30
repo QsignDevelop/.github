@@ -1,5 +1,5 @@
 ### Hello~ There is CherryPop QQbot Develop Studio!
-#### This Studio belong to **Starislet Studio** and **CatnipHub** ~
+#### This Studio belong to **Starislet Studio** and **AireyaProject** ~
 ---
 #### Now We're Develop to these Project / Program
 | Project Name      | State |
@@ -10,4 +10,4 @@
 | NekoGelBot   | Developing **This is Main Project**        |
 ---
 #### Contact Us:
-- Studio Official E-mail : botdevelop@nekogel.org
+- Studio Official E-mail : CherryPop@aireya.org
